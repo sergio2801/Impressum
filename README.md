@@ -1,12 +1,12 @@
 <h1>Impressum Donkey Bridge und Donkey Bridge Lite</h1> 
 <p>Angaben gemäß § 5 DDG</p> 
-<p>Serio Kulick<br> 
+<p>Sergio Kulick<br> 
 <br> 
 Strasse Hausnummer<br> 
 PLZ und Ort <br> 
 </p> 
 <p> <strong>Vertreten durch: </strong><br>
-Sergej Kulikov<br>
+Sergio Kulick<br>
 </p> 
 <p><strong>Kontakt:</strong> <br>
 Telefon: +4915209245208<br>
