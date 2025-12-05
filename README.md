@@ -1,6 +1,6 @@
 <h1>Impressum Donkey Bridge und Donkey Bridge Lite</h1> 
 <p>Angaben gemäß § 5 DDG</p> 
-<p>Serge Kulikov<br> 
+<p>Serio Kulick<br> 
 <br> 
 Strasse Hausnummer<br> 
 PLZ und Ort <br> 
